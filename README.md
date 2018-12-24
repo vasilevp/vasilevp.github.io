@@ -1,3 +1,3 @@
-# Pavel Vasilev
+## Contents:
 
 - [CV](pages/cv.html)
