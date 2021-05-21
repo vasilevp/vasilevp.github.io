@@ -8,10 +8,10 @@ I live in St. Petersburg, Russia.
 ## About me
 - Have experience in Go Language, as well as several other programming languages and toolsets
 - Flexible, quick learner
-- Passionate about software development: at work I write code for the project, after work I write code for the fun of it
+- Passionate about software development: at work, I write code for the project, after work I write code for the fun of it
 - Influenced and improved the process of software development in different ways, introducing automated static analysis tools, good engineering practices whenever there was such a need
 - Took initiative in discussions regarding the aforementioned improvements
-- Have good command of written and spoken English (С1 according to EPAM's internal English assessment)
+- Have a good command of written and spoken English (С1 according to EPAM's internal English assessment)
 
 ## Education
 ### Saint Petersburg State University, 2016
@@ -46,7 +46,7 @@ Outsourcing work for the following clients/projects:
 
   #### Responsibilities:
   - Built a product conforming to the OSB API _almost_ from the ground up as the main developer
-  - Took major part in product design
+  - Took a major part in product design
   - Directly assisted corporate clients with the product, including support calls & incident recovery on multiple occasions
   - Contributed enhancements & bug fixes to dependencies during development
   - Assisted with test automation, CI/CD
@@ -57,12 +57,12 @@ Outsourcing work for the following clients/projects:
 - ### MongoDB: Pivotal CloudFoundry Tile
   *May 2019 - Sep 2020*
 
-  A [CloudFoundry Tile] for managin MongoDB Ops Manager clusters from CloudFoundry
+  A [CloudFoundry Tile] for managing MongoDB Ops Manager clusters from CloudFoundry
 
   #### Responsibilities:
   - Supported existing CF Tile product until retirement as the main developer
   - Implemented various improvements to stability, security and versatility of the product
-  - Took major part in improving CI/CD workflows and other QOL enhancements
+  - Took a major part in improving CI/CD workflows and other QOL enhancements
   - Developed more resilient reconciliation algorithms for syncing state between the Tile and MongoDB Automation Agents
 
   #### Technologies used:
@@ -74,13 +74,13 @@ Outsourcing work for the following clients/projects:
   Backend work for [Ooyala Video Platform] & integration with [Flex Media Platform]
 
   #### Responsibilities:
-  - Helped migrate legacy Ruby code base to Go in a backwards-compatible fashion
-  - Participated in all stages of product development lifecycle, from inception to retirement
+  - Helped migrate legacy Ruby codebase to Go in a backwards-compatible fashion
+  - Participated in all stages of the product development lifecycle, from inception to retirement
   - Developed and maintained high-load distributed systems (with the help of Kubernetes, high-speed clustered Redis cache backend and Varnish HTTP accelerator)
   - Performed manual functional and integration testing
   - Created functional and integrational tests for automated testing of multiple products
   - Implemented multiple access management solutions (using encryption, plain JWT and OAuth)
-  - Proposed and supported the implementation of several 'good engineering practices', such as Git Flow, commit and PR size policies; actively participated in improving the engineering process
+  - Proposed and supported the implementation of several "good engineering practices", such as Git Flow, commit and PR size policies; actively participated in improving the engineering process
 
   #### Technologies used:
   Go, Docker, MySQL/MariaDB, Kubernetes, Redis, Memcached, Consul, Datadog, PagerDuty, Sumologic
@@ -111,7 +111,7 @@ C++, WinAPI, STL, Boost, C#, PostgreSQL, MySQL, SQLite, WinForms, WPF
 Building an automated car washing system from the ground up
 
 #### Responsibilities:
-- Developed a system that controls several stepper-motors, rotors and water sprinklers
+- Developed a system that controls several stepper motors, rotors and water sprinklers
 - Implemented algorithms for distance measurements, modelling and visualization of washed objects or vehicles, camera calibration, path prediction, JS/QML scripting
 - Took part in emulating a real-world prototype for testing and refinement of used algorithms
 
@@ -175,7 +175,7 @@ Some examples of things I built:
 - a beeping attachment for my washing machine to indicate that the washing cycle has finished or that user input (i.e. adding fabric softener) is required
 
 ### Less nerdy activities
-I also like to play videogames, cook, go camping, occasionally play guitar and bass and write music.
+I also like to play video games, cook, go camping, occasionally play guitar and bass and write music.
 
 [Kubernetes Operator]: https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
 [CloudFoundry tile]: https://docs.pivotal.io/tiledev/2-6/tile-basics.html
