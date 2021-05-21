@@ -22,10 +22,9 @@ I live in St. Petersburg, Russia.
 ### Go Software Engineer, EPAM
 *St. Petersburg, Remote, Jan 2018 - Present*
 
-Outsourcing work for the following clients/projects:
-
-- ### MongoDB: Kubernetes Atlas Operator
-  *Dec 2020 - Present*
+Outsourcing work for the following projects:
+- ### Kubernetes Atlas Operator
+  *Dec 2020 - Apr 2021*
 
   A [Kubernetes Operator] for managing MongoDB Atlas clusters, a future-proof replacement for OSBv1 & OSBv2 in more modern and widely used environments
 
@@ -39,7 +38,7 @@ Outsourcing work for the following clients/projects:
   #### Technologies and services used:
   - Go, Ginkgo, Docker, Kubernetes ([kubebuilder], [controller-gen], [Operator SDK]), MongoDB, [MongoDB Atlas]
 
-- ### MongoDB: Atlas Open Service Broker v2 Beta
+- ### MongoDB Atlas Open Service Broker
   *Jul 2020 - Jan 2021*
 
   An [Open Service Broker] for managing MongoDB Atlas clusters from CloudFoundry, a more flexible replacement for AOSB v1
@@ -54,7 +53,7 @@ Outsourcing work for the following clients/projects:
   #### Technologies used:
   Go, Pivotal/VMWare stack ([CloudFoundry/Tanzu][CloudFoundry], [Concourse CI]), Docker, MongoDB, [MongoDB Atlas], [MongoDB Realm], [Sentry]
 
-- ### MongoDB: Pivotal CloudFoundry Tile
+- ### Pivotal CloudFoundry Tile for MongoDB clusters
   *May 2019 - Sep 2020*
 
   A [CloudFoundry Tile] for managing MongoDB Ops Manager clusters from CloudFoundry
@@ -68,10 +67,10 @@ Outsourcing work for the following clients/projects:
   #### Technologies used:
   Go, Pivotal stack ([CloudFoundry], [Concourse CI], [BOSH], etc.), Docker, MongoDB, [MongoDB Ops Manager]
 
-- ### Ooyala Inc: Ooyala Video Platform & Flex Media Platform projects
+- ### Video Platform Backend
   *Jan 2018 - Apr 2019*
 
-  Backend work for [Ooyala Video Platform] & integration with [Flex Media Platform]
+  Backend work for a streaming/on-demand video platform
 
   #### Responsibilities:
   - Helped migrate legacy Ruby codebase to Go in a backwards-compatible fashion
