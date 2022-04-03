@@ -39,7 +39,7 @@ Outsourcing work for the following projects:
   Responsibilities:
 
   - Supported the existing infrastructure
-  - Performed major architectural overhauls to improve system stability, readability, and ease of debugging
+  - Performed major architectural overhauls to improve system stability, code readability, and ease of debugging
   - Automated several engineering processes, such as:
     - client library generation from an OpenAPI spec
     - version management for generated clients
