@@ -20,7 +20,7 @@ I am originally from St. Petersburg, Russia, but currently out of the country fo
 
 ### Saint Petersburg State University, 2016
 
-*B. Sc., Applied Mathematics and Control Processes*
+*B. Sc., Applied Mathematics, Fundamental Informatics and Programming*
 
 ## Professional experience
 
