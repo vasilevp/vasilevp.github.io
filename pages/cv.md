@@ -36,19 +36,31 @@ Outsourcing work for the following projects:
 
   A backend service that provides data aggregation, transformation, and search
 
-  Responsibilities:
+  Took major part in implementation of a RESTful API utilizing loosely coupled components, event sourcing for temporality and storage efficiency and message queues for bulk data processing.
 
-  - Supported the existing infrastructure
-  - Performed major architectural overhauls to improve system stability, code readability, and ease of debugging
+  My key responsibilities were:
+  - Increasing the stability, scalability, cost and performance of existing systems under constantly changing load
+  - Replacing legacy components with newer ones that take advantage of load distribution
+  - Rebuilding legacy infrastructure with fault tolerance in mind
+  - Mentoring and on-boarding of new developers
+  - Introduction of a new DBaaS solution for reduced overhead and migrating large volumes of business data and workloads in limited timespan
+  - Constant customer engagement going all the way to higher management
+  - Built an event-sourced data storage with support for temporality, including temporal search algorithms
+  - Integrated multiple upstream data sources with real-time data update and near-instant propagation
+  - Performed DevOps & Platform Engineering duties, including rebuilding the network architecture, RBAC mechanisms and adding auto-scaling support
+  - Implemented asynchronous API framework for long-running queries
   - Automated several engineering processes, such as:
     - client library generation from an OpenAPI spec
-    - version management for generated clients
-    - CI checks for outdated Swagger specs & generated code
-    - a self-linting, self-documenting Makefile
+    - version management for generated clients and automated delivery through proprietary systems
+    - CI checks and custom linters for outdated Swagger specs & generated code
+    - restrictive static analysis, code style and good coding practices such as mandatory data consistency, performance and accuracy checks
+  - Adapted third-party proprietary software to deploy in Kubernetes for automation and resiliency
+
+  My priority is producing value for the business and promoting engineering excellence for my team.
 
   Technologies and services used:
 
-  - Go, [echo], Docker, Kubernetes, OpenAPI/swagger ([swagger-codegen], [goswagger]), Elasticsearch, Redis, RabbitMQ, Azure Cloud, Azure DevOps
+  - Go, [echo], Docker, Kubernetes, [MongoDB Atlas], OpenAPI/swagger ([swagger-codegen], [goswagger]), Elasticsearch, Redis, RabbitMQ, Azure Cloud, Azure DevOps
 
 - ### MongoDB Kubernetes Atlas Operator
 
