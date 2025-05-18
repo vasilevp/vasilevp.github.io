@@ -1,20 +1,20 @@
-# My CV
+# Pavel Vasilev
 
 ## Contacts
 
-I am originally from St. Petersburg, Russia, but currently out of the country for political and moral reasons.
+I am originally from St. Petersburg, Russia, but currently live in Serbia.
 
 1. Telegram: [p_vasilev](https://t.me/p_vasilev)
 2. E-mail: [explosere@gmail.com](mailto:explosere@gmail.com)
 
 ## About me
 
-- Have experience with Go Language, as well as several other programming languages and toolsets
+- Experienced in Go Language, along with several other programming languages and toolsets
 - Flexible, quick learner
-- Passionate about software development: at work, I write code for the project; after work, I write code for the fun of it
-- Influenced and improved the process of software development in different ways, introducing automated static analysis tools, good engineering practices whenever there was such a need
+- Passionate about software development: I write code for projects at work and for fun after work
+- Influenced and improved software development processes in different ways, introducing automated static analysis tools and good engineering practices whenever needed
 - Took initiative in discussions regarding the aforementioned improvements
-- Have a good command of written and spoken English (С1 according to EPAM's internal English assessment)
+- Proficient in written and spoken English (С1 level according to EPAM's internal English assessment)
 
 ## Education
 
@@ -24,15 +24,19 @@ I am originally from St. Petersburg, Russia, but currently out of the country fo
 
 ## Professional experience
 
+### Go Software Engineer, Nebius
+*Belgrade, Feb 2025 - present*
+
 ### Go Software Engineer, EPAM
 
-*St. Petersburg, Remote, Jan 2018 - Present*
+*St. Petersburg, Jan 2018 - Mar 2022*
+*Batumi/Remote, Mar 2022 - Feb 2025*
 
 Outsourcing work for the following projects:
 
 - ### Backend for a Swiss reinsurance company
 
-  *May 2021 - currently*
+  *May 2021 - Feb 2025*
 
   A backend service that provides data aggregation, transformation, and search
 
@@ -202,7 +206,7 @@ Algorithms for quadcopter control
 
 Responsibilities:
 
-- Took part in implementing algorithms for object detection and control of a loaded quadcopter
+- Took part in implementing algorithms for object detection and control of a loaded quadcopter drone
 
 Technologies used:
 
