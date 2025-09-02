@@ -25,7 +25,7 @@ I am originally from St. Petersburg, Russia, but currently live in Serbia.
 ## Professional experience
 
 ### Go Software Engineer, Nebius
-*Belgrade, Hybrid, Jan 2025 - May 2025*
+*Belgrade, Hybrid, Feb 2025 - May 2025*
 
 Cloud-native platform for machine learning and data science.
 
