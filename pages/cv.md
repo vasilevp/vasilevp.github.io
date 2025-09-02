@@ -30,7 +30,7 @@ I am originally from St. Petersburg, Russia, but currently live in Serbia.
 Cloud-native platform for machine learning and data science.
 
 Responsibilities:
-- Took part in improving the deployment processes of managed cloud applications
+- Managed infrastructure and lifecycle automation for Jupyter and other interactive cloud tools
 - Worked on improving observability and debug capabilities of VMs and containers
 - Improved the UX and usability of several internal and public-facing tools for managing cloud resources, as well as automating certain disaster recovery workflows
 
