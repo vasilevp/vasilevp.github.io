@@ -25,7 +25,14 @@ I am originally from St. Petersburg, Russia, but currently live in Serbia.
 ## Professional experience
 
 ### Go Software Engineer, Nebius
-*Belgrade, Feb 2025 - present*
+*Belgrade, Hybrid, Jan 2025 - May 2025*
+
+Cloud-native platform for machine learning and data science.
+
+Responsibilities:
+- Took part in improving the deployment processes of managed cloud applications
+- Worked on improving observability and debug capabilities of VMs and containers
+- Improved the UX and usability of several internal and public-facing tools for managing cloud resources, as well as automating certain disaster recovery workflows
 
 ### Go Software Engineer, EPAM
 
