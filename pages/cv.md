@@ -14,7 +14,7 @@ I am originally from St. Petersburg, Russia, but currently live in Serbia.
 - Passionate about software development: I write code for projects at work and for fun after work
 - Influenced and improved software development processes in different ways, introducing automated static analysis tools and good engineering practices whenever needed
 - Took initiative in discussions regarding the aforementioned improvements
-- Proficient in written and spoken English (С1 level according to EPAM's internal English assessment)
+- Proficient in written and spoken English (C1 level according to EPAM's internal English assessment)
 
 ## Education
 
@@ -30,9 +30,13 @@ I am originally from St. Petersburg, Russia, but currently live in Serbia.
 Cloud-native platform for machine learning and data science.
 
 Responsibilities:
-- Managed infrastructure and lifecycle automation for Jupyter and other interactive cloud tools
+- Managed infrastructure and lifecycle automation for Jupyter and one-click deployments for other interactive cloud tools
 - Worked on improving observability and debug capabilities of VMs and containers
 - Improved the UX and usability of several internal and public-facing tools for managing cloud resources, as well as automating certain disaster recovery workflows
+- Developed features and performed maintenance for an S3-compatible object storage service
+
+Technologies and services used:
+- Go, gRPC, Docker, Kubernetes, Helm, Terraform, Ansible, Prometheus + Grafana, Nebius Cloud
 
 ### Go Software Engineer, EPAM
 
@@ -71,7 +75,7 @@ Outsourcing work for the following projects:
 
   Technologies and services used:
 
-  - Go, [echo], Docker, Kubernetes, [MongoDB Atlas], OpenAPI/swagger ([swagger-codegen], [goswagger]), Elasticsearch, Redis, RabbitMQ, Azure Cloud, Azure DevOps
+  - Go, [echo], Docker, Kubernetes, Helm, [MongoDB Atlas], OpenAPI/swagger ([swagger-codegen], [goswagger]), Elasticsearch, Redis, RabbitMQ, Azure Cloud, Azure DevOps, [Palantir Foundry]
 
 - ### MongoDB Kubernetes Atlas Operator
 
@@ -278,3 +282,4 @@ I also like to play video games, cook, go camping, occasionally play guitar and 
 [swagger-codegen]: https://github.com/swagger-api/swagger-codegen
 [goswagger]: https://goswagger.io/
 [echo]: https://echo.labstack.com/
+[Palantir Foundry]: https://www.palantir.com/platforms/foundry/
