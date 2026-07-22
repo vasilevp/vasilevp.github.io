@@ -24,7 +24,36 @@ I am originally from St. Petersburg, Russia, but currently live in Serbia.
 
 ## Professional experience
 
-### Go Software Engineer, Nebius
+### Backend Software Engineer, Akvelon
+*Belgrade, Hybrid, Nov 2025 - July 2026*
+
+Anonymous social network with 400M+ monthly active users.
+
+Responsibilities:
+- Oversaw improvements for machine learning models and their integration into the backend
+- Lead the development of new pipelines and services for high-load scenarios
+- Developed new ML-powered pipelines for recommendations based on user activity and content, including real-time and batch processing
+- Oversaw and implemented CI/CD QoL improvements and automation of the development process
+- Provided mentorship and guidance to junior developers, fostering a collaborative and growth-oriented environment
+- Collaborated with cross-functional teams to define and implement new features, ensuring alignment with business goals and user needs
+- Oversaw knowledge transfer to machine learning engineers and other stakeholders, ensuring smooth adoption of the new architecture and processes
+- Led the effort to migrate legacy services to align with the current business needs and improve maintainability, scalability, and performance
+- Reduced request latency by 30% by optimizing existing services and implementing caching strategies
+
+Technologies and services used:
+- Go, gRPC, Docker, Kubernetes, Helm, Terraform, Reddit Baseplate ([baseplate.go]+[baseplate.py]), [devvit]
+
+### Backend Software Engineer, Luxoft
+*Belgrade, Hybrid, Sep 2025 - Nov 2025*
+
+Healthcare insurance platform.
+
+Responsibilities:
+- Led an effort to migrate a legacy monolithic application to a microservices architecture
+- Developed new microservices and improved existing ones
+- Reworked the distributed system architecture to improve scalability, reliability, and maintainability
+
+### Backend Software Engineer, Nebius
 *Belgrade, Hybrid, Feb 2025 - May 2025*
 
 Cloud-native platform for machine learning and data science.
@@ -34,6 +63,7 @@ Responsibilities:
 - Worked on improving observability and debug capabilities of VMs and containers
 - Improved the UX and usability of several internal and public-facing tools for managing cloud resources, as well as automating certain disaster recovery workflows
 - Developed features and performed maintenance for an S3-compatible object storage service
+- Implemented automated deployments and CI/CD pipelines for various services and applications
 
 Technologies and services used:
 - Go, gRPC, Docker, Kubernetes, Helm, Terraform, Ansible, Prometheus + Grafana, Nebius Cloud
@@ -254,6 +284,7 @@ Some examples of things I built:
 - a flower watering system with humidity sensor, Wi-Fi, and remote web access powered by an ESP-32
 - a simplistic WAV player powered by an Arduino
 - an LED-activated buzzer attachment for my washing machine to indicate that the washing cycle has finished or that user input (i.e., adding fabric softener) is required
+- a 12V battery bank made out of recycled vape batteries
 
 ### Less nerdy activities
 
@@ -283,3 +314,6 @@ I also like to play video games, cook, go camping, occasionally play guitar and 
 [goswagger]: https://goswagger.io/
 [echo]: https://echo.labstack.com/
 [Palantir Foundry]: https://www.palantir.com/platforms/foundry/
+[baseplate.go]: https://github.com/reddit/baseplate.go
+[baseplate.py]: https://github.com/reddit/baseplate.py
+[devvit]: https://github.com/reddit/devvit
